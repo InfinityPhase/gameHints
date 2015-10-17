@@ -1,0 +1,23 @@
+Level 1
+Dungeons of Kithguard
+
+Code:
+    self.moveRight()
+    self.moveDown()
+    self.moveRight()
+
+
+Level 2
+Gems in the Deep
+
+Code:
+    self.moveRight()
+    self.moveDown()
+    self.moveUp()
+    self.moveUp()
+    self.moveRight()
+
+Level 3
+
+
+Code:
